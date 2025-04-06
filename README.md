@@ -1,4 +1,4 @@
 # firstgithub-demo
-this is my first repository
-author-</br>abdullah ahmed
+this is my first repository <br>
+author-abdullah ahmed
 
